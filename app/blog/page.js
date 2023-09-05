@@ -10,6 +10,7 @@ function Blog() {
           <div className='secondcard'>
            <Card/>
            <Card/>
+           
           </div>
         </div>
       </>
