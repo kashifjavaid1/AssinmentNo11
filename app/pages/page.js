@@ -2,6 +2,7 @@ import '../page.css'
 import Box from '../(components)/box/box';
 function Pages() {
     return(
+      
         <>
         <div className='ourteamsec'>
       <div class="ourteam">
