@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Button from "../(components)/button/button";
-import '../page.css'
+// import '../page.css'
 function About() {
     return(
       <>
