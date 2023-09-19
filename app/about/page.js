@@ -12,6 +12,7 @@ function About() {
         width={400} 
         height={300}
       />
+      
       <div className='aboutsec2'>
          <p className='aboutpera'>ABOUT AS</p>
          <h1 className='abouheading'>We Design,build brand<br></br> & Digital projects.</h1>
